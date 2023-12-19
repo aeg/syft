@@ -282,7 +282,7 @@ var defaultCandidateAdditions = buildCandidateLookup(
 		{
 			pkg.ApkPkg,
 			candidateKey{PkgName: "libxpm"},
-			candidateAddition{AdditionalVendors: []string{"libxpm_project"}},
+			candidateAddition{AdditionalVendors: []string{"x.org"}},
 		},
 		{
 			pkg.ApkPkg,
